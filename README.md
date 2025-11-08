@@ -1,8 +1,3 @@
-
-## Hi there!
-
-- 📚 Currently learning computer science :)
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=paulabaal12&theme=omni&show_icons=true&hide_border=true&count_private=true" alt="paulabaal12's Stats" width="400"/>
